@@ -1,0 +1,28 @@
+name: Kyle A Zimmerman
+favicon: null
+layout_spectrum: 0.62888278439641
+typography_spectrum: 0.5238350711297244
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.1982078014407307
+  lightness: 0.7890849844552577
+  saturation: 0.8731501451693475
+  rhythmicContrast: 0.07849537767469883
+purpose: []
